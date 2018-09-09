@@ -1,4 +1,6 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "kelpforest"
+  "format": "kelpforest",
+  "citation": "Beas-Luna, R., Novak, M., Carr, M. H., Tinker, M. T., Black, A., Caselle, J. E., … Iles, A. (2014). An Online Database for Informing Ecological Network Models: http://kelpforest.ucsc.edu. PLoS ONE, 9(10), e109356. doi:10.1371/journal.pone.0109356",
+  "doi": "10.1371/journal.pone.0109356"
 }
