@@ -1,4 +1,5 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "kelpforest"
+  "format": "kelpforest",
+  "citation": "Beas-Luna, R., A. Black, M. Novak, M. Carr, J. Caselle, J. Estes, P. Levin, T. Tinker. (2014) An online database of species interactions for informing ecosystem models http://kelpforest.ucsc.edu. PlosOne PONE-D-14-18906R1"
 }
