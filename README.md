@@ -1,5 +1,5 @@
 # kelpforest
-[![Build Status](https://travis-ci.org/globalbioticinteractions/kelpforest.svg?branch=master)](https://travis-ci.org/globalbioticinteractions/kelpforest)
+[![Build Status](https://travis-ci.com/globalbioticinteractions/kelpforest.svg?branch=master)](https://travis-ci.com/globalbioticinteractions/kelpforest)
 
 Species Interaction Dataset generated from http://kelpforest.ucsc.edu .
 
